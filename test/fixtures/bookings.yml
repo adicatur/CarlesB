@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  siswa_id: MyString
+  integer: MyString
+  guru_id: MyString
+  integer: MyString
+
+two:
+  siswa_id: MyString
+  integer: MyString
+  guru_id: MyString
+  integer: MyString
